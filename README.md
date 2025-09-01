@@ -5,7 +5,7 @@ Shortcut to use AltStore repos in LiveContainer
 
 ![demo](https://i.imgur.com/uOD89sX.png)
 
-![Demo2](https://i.imgur.com/Ldffi5V.jpeg)
+![Demo2](https://i.imgur.com/1tduUxj.png)
 
 ## How to use
 - Select LiveContainer Applications folder (setup only)
