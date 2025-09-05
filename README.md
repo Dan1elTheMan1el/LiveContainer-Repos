@@ -5,8 +5,7 @@ Shortcut to use AltStore repos in LiveContainer
 
 **This shortcut is for users who sideload with [LiveContainer](https://github.com/LiveContainer/LiveContainer)**
 
-<img src="https://i.imgur.com/uOD89sX.png" width="500">
-<img src="https://i.imgur.com/1tduUxj.png" width="500">
+<img src="https://i.imgur.com/OyIOVfk.jpeg" width="800">
 
 ## Features
 - Add unlimited IPA repos
