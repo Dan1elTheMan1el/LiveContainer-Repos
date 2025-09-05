@@ -18,6 +18,7 @@ Shortcut to use AltStore repos in LiveContainer
   - Icons in every menu
   - App description shows screenshots
 - Automatic installs
+- Add app clip bookmarks automatically
 
 ## How to use
 - Select LiveContainer Applications folder (setup only)
