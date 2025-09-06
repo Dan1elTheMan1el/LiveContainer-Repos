@@ -1,7 +1,7 @@
 # LiveContainer-Repos
 Shortcut to use AltStore repos in LiveContainer
 
-[<img src="https://i.imgur.com/IfBJZpG.png" width="300">](https://shortcuty.app/api/shortcuts/2915d5fe-df56-4da7-abd8-080824b14917/get)
+[<img src="https://i.imgur.com/IfBJZpG.png" width="300">](https://www.icloud.com/shortcuts/4a7c164b4c434b34b88522595d1a5d3a)
 
 **This shortcut is for users who sideload with [LiveContainer](https://github.com/LiveContainer/LiveContainer)**
 
@@ -11,11 +11,11 @@ Shortcut to use AltStore repos in LiveContainer
 - Add unlimited IPA repos
 - Search all repos for apps by keyword
   - Quickly check names, descriptions, etc
-- Browse repo apps page by page
-  - Brand new **batch downloading** logic to prevent long load times
+- Browse full repo list
 - Beautiful UI
-  - Icons in every menu
-  - App description shows screenshots
+  - Brand new html menus
+  - App description shown before installation
+  - Instant load times
 - Automatic installs
 - Add app clip bookmarks automatically
 
