@@ -1,11 +1,11 @@
 # LiveContainer-Repos
 Shortcut to use AltStore repos in LiveContainer
 
-[<img src="https://i.imgur.com/IfBJZpG.png" width="300">](https://www.icloud.com/shortcuts/4788f6c4a3d44b92918444f5598f5f5f)
+[<img src="https://raw.githubusercontent.com/Dan1elTheMan1el/LiveContainer-Repos/refs/heads/main/Banner.png" width="300">](https://www.icloud.com/shortcuts/4788f6c4a3d44b92918444f5598f5f5f)
 
 **This shortcut is for users who sideload with [LiveContainer](https://github.com/LiveContainer/LiveContainer)**
 
-<img src="https://i.imgur.com/OyIOVfk.jpeg" width="800">
+<img src="https://raw.githubusercontent.com/Dan1elTheMan1el/LiveContainer-Repos/refs/heads/main/Demos.PNG" width="800">
 
 ## Features
 - Add unlimited IPA repos
