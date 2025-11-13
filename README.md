@@ -1,7 +1,7 @@
 # LiveContainer-Repos
 Shortcut to use AltStore repos in LiveContainer
 
-[<img src="https://raw.githubusercontent.com/Dan1elTheMan1el/LiveContainer-Repos/refs/heads/main/Banner.png" width="300">](https://www.icloud.com/shortcuts/f25a2a5caabe4a9fa99d323f3eedb030)
+[<img src="https://raw.githubusercontent.com/Dan1elTheMan1el/LiveContainer-Repos/refs/heads/main/Banner.png" width="300">](https://www.icloud.com/shortcuts/72571e58c96748b5a68f440ffd1dc214)
 
 **This shortcut is for users who sideload with [LiveContainer](https://github.com/LiveContainer/LiveContainer)**
 
